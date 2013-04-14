@@ -7,4 +7,6 @@ Ideal for the basis of any website.
 
 utilises jquery, html5shim, dns-prefetching, apple touch icons, web-app capable meta, mobile viewport, google analytics and twitter
 
+based on Cinderblock.
+
 enjoy.
